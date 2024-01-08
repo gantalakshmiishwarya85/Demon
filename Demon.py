@@ -25,5 +25,5 @@ with col5:
   st.write("Zenitsu fight scene with Upper Moon(Spider)") 
 with col6:
   st.subheader("善逸と舌鬼の戦闘シーン")
-  st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fkimetsu-no-yaiba.fandom.com%2Fwiki%2FZenitsu_Agatsuma_vs_Tongue_Demon&psig=AOvVaw3F7Aytg8ObOSlG9L7sydDP&ust=1704822090296000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDHn_ewzoMDFQAAAAAdAAAAABAD ")
+  st.image("https://i.pinimg.com/originals/e8/a7/00/e8a7005d93b743757682e690040584bc.gif")
   st.write("Zenitsu fight scene with Tongue Demon") 
