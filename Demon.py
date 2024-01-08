@@ -8,13 +8,13 @@ with col1:
   st.write(" Zenitsu as Thunder ")
 with col2:
   st.subheader("善逸が炭治郎と一緒にいるのが可愛い")
-  st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgl_aMN4vzrbWqraHaGLF43cIn5CYyn47Nxg&usqp=CAU",width=100,use_column_width=True)
+  st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgl_aMN4vzrbWqraHaGLF43cIn5CYyn47Nxg&usqp=CAU",width=200,use_column_width=True)
   st.write("Zenitsu is being cute with Tanjiro")
 with col3:
   st.subheader("善逸は剣を取った")
-  st.image("https://i.pinimg.com/originals/cc/ed/5a/cced5a055436f9f0ed1ef11160ac2318.gif",width=100,use_column_width=True)
+  st.image("https://i.pinimg.com/originals/cc/ed/5a/cced5a055436f9f0ed1ef11160ac2318.gif",width=200,use_column_width=True)
   st.write("Zenitsu took the sword") 
 with col4:
   st.subheader("善逸とアッパームーン(スパイダー)の戦闘シーン")
-  st.image("https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a6/Zenitsu_vs_Son_Spider_Demon.gif/revision/latest?cb=20200120085338",width=100,use_column_width=True)
+  st.image("https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a6/Zenitsu_vs_Son_Spider_Demon.gif/revision/latest?cb=20200120085338",width=200,use_column_width=True)
   st.write("Zenitsu fight scene with Upper Moon(Spider)") 
