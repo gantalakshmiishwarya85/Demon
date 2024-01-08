@@ -16,5 +16,5 @@ with col3:
   st.write("Zenitsu took the sword") 
 with col4:
   st.subheader("善逸とアッパームーン(スパイダー)の戦闘シーン")
-  st.image("https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a6/Zenitsu_vs_Son_Spider_Demon.gif/revision/latest?cb=20200120085338")
+  st.image("https://qph.cf2.quoracdn.net/main-qimg-2040d2ebdcd42609d9e709c6a62737d0")
   st.write("Zenitsu fight scene with Upper Moon(Spider)") 
